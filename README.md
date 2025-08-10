@@ -1,4 +1,6 @@
 # olt-mgmt
+Sekedar untuk memonitoring perangkat olt dan ont/onu
+
 Berikut panduan **install web server (Apache + PHP + MySQL)** di **Ubuntu 24.04**, cocok untuk keperluan aplikasi web standar:
 
 ---
@@ -126,9 +128,3 @@ sudo systemctl restart apache2
 ```bash
 sudo rm /var/www/html/info.php
 ```
-
----
-
-Kalau kamu mau pakai **Nginx + PHP-FPM** (bukan Apache), tinggal bilang aja — akan kubantu juga step-nya.
-
-Butuh juga auto-install script (bash)? Bisa saya buatin.
