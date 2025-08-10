@@ -1,5 +1,5 @@
 # olt-mgmt
-Sekedar untuk memonitoring perangkat olt dan ont/onu
+Sekedar untuk memonitoring perangkat olt dan ont/onu, akan dikembangkan pelan-pelan
 
 Berikut panduan **install web server (Apache + PHP + MySQL)** di **Ubuntu 24.04**, cocok untuk keperluan aplikasi web standar:
 
